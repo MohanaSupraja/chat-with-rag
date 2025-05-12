@@ -1,0 +1,12 @@
+# SQLite database files
+*.sqlite3
+
+# ChromaDB data folder (update if ChromaDB uses a different folder)
+chroma_db/
+
+# Other common ignores
+__pycache__/
+*.pyc
+venv/
+.env
+.env.*

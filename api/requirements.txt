@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain_community
+docx2txt
+pypdf
+langchain_chroma
+sentence-transformers
+together
+TextLoader
+unstructured[html]
+fastapi
+uvicorn
